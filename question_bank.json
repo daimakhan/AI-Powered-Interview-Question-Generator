@@ -1,0 +1,62 @@
+{
+  "Artificial Intelligence": {
+    "Fresher Intern": [
+      "What is supervised learning?",
+      "Explain overfitting in simple terms.",
+      "What is the difference between AI, ML, and Deep Learning?",
+      "What is a neural network in basic terms?",
+      "Name three common machine learning algorithms.",
+      "What is training data and why is it important?",
+      "Explain what a decision tree is."
+    ],
+    "Experienced Intern": [
+      "How would you optimize a deep learning model?",
+      "Explain reinforcement learning with an example.",
+      "What are the differences between CNN and RNN architectures?",
+      "How do you handle bias in machine learning models?",
+      "Explain gradient descent and its variants.",
+      "What is transfer learning and when would you use it?",
+      "How would you evaluate the performance of a classification model?"
+    ]
+  },
+  "Web Development": {
+    "Fresher Intern": [
+      "What is the difference between HTML and CSS?",
+      "Explain what APIs are used for in web development.",
+      "What is the difference between frontend and backend?",
+      "What is responsive design?",
+      "Explain what JavaScript is used for in websites.",
+      "What is the purpose of a database in web applications?",
+      "What is the difference between GET and POST requests?"
+    ],
+    "Experienced Intern": [
+      "How would you optimize a React application?",
+      "Explain how databases interact with backend APIs.",
+      "What are the security considerations in web development?",
+      "How do you handle state management in modern web frameworks?",
+      "Explain the concept of RESTful APIs and their design principles.",
+      "What is the difference between SQL and NoSQL databases?",
+      "How would you implement authentication in a web application?"
+    ]
+  },
+  "Game Development": {
+    "Fresher Intern": [
+      "What are the basic components of a video game?",
+      "Explain what a game engine is.",
+      "What is the difference between 2D and 3D games?",
+      "What programming languages are commonly used in game development?",
+      "What is a sprite in game development?",
+      "Explain what game physics means.",
+      "What is the role of graphics in game development?"
+    ],
+    "Experienced Intern": [
+      "How do you optimize game performance for different platforms?",
+      "Explain the game development pipeline from concept to release.",
+      "What are design patterns commonly used in game development?",
+      "How do you handle multiplayer synchronization in games?",
+      "Explain memory management in game development.",
+      "What is procedural generation and how is it implemented?",
+      "How do you implement AI behaviors for NPCs in games?"
+    ]
+  }
+}
